@@ -34,12 +34,31 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Vite;
 - ReactJS;
 - styled-components;
-- React-router-dom
+- React-router-dom;
+- Axios;
+- LocalStorage;
 
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/wUVfepza803Shwr5sA1Hu5/RocketNotes-(Copy)?node-id=0%3A1&t=uW0S3dFjuFySCIzK-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
+## 📚 Aprendi:
+
+- [x]  O que é ReactJS;
+- [x]  Utilização do Vite;
+- [x]  Estruturar pastas e arquivos no ReactJS;
+- [x]  Executar um projeto ReactJS;
+- [x]  Fragment;
+- [x]  styled-components;
+- [x]  Adicionar fontes personalizadas;
+- [x]  Components;
+- [x]  Props;
+- [x]  Rotas;
+- [x]  Navegação;
+- [x]  Axios;
+- [x]  Contextos;
+- [x]  Hooks;
+- [x]  LocalStorage;
 
 ---
 
