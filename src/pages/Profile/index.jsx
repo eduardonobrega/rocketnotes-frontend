@@ -39,6 +39,8 @@ export function Profile() {
 
     document.querySelector('#oldPassword').value = '';
     document.querySelector('#newPassword').value = '';
+    setNewPassword('');
+    setOldPassword('');
   }
 
   function handleChangeAvatar(event) {
